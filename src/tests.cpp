@@ -18,7 +18,7 @@ TEST_CASE("numbers with two digits"){
     REQUIRE( FizzBuzz("12") == "Fizz" );
     REQUIRE( FizzBuzz("13") == "13" );
     REQUIRE( FizzBuzz("14") == "14" );
-    REQUIRE( FizzBuzz("15") == "Buzz" );
+    REQUIRE( FizzBuzz("15") == "FizzBuzz" );
 
 }
 

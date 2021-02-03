@@ -13,6 +13,10 @@ if(number == "0"){
    return "0";
 }
 
+if(buffer %3 ==0 && buffer%5 ==0 ){
+   buf = "FizzBuzz";
+   return buf;
+}
 if (buffer == 3 || buffer % 3 == 0 ){
       buf = "Fizz";
    return buf;

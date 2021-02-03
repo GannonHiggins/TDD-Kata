@@ -5,7 +5,7 @@
 int FizzBuzz(){
 
 
-    
+   return 0; 
 }
 
 

@@ -4,6 +4,7 @@
 
 
 TEST_CASE( "Empty string returns 0"){
-    REQUIRE( Add("") == 0 );
+    REQUIRE( FizzBuzz(0) == 0 );
+    REQUIRE( FizzBuzz(1) == 0 );
 }
 

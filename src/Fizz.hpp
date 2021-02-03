@@ -2,10 +2,10 @@
 #define FIZZ_HPP
 
 
-int FizzBuzz(){
+int FizzBuzz(int number){
 
 
-   return 0; 
+   return number; 
 }
 
 
